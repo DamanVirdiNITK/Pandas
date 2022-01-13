@@ -7,6 +7,8 @@ INSTALLING PANDAS:
 
 1. pandas is part of the Anaconda distribution and can be installed with Anaconda or Miniconda:
           conda install pandas
+          
+          OR
      
 2. pandas can be installed via pip from PyPI.
           pip install pandas
